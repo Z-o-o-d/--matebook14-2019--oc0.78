@@ -31,10 +31,13 @@ UHD620核显
 
 # other
 https://github.com/ic005k/OCAuxiliaryTools  OCAT的github
+
 https://github.com/acidanthera/OpenCorePkg  OC的github
 
 使用OCAT升级opencore 0.8.9后仍可使用
 
 EFI来自
+
 https://bbs.pcbeta.com/viewthread-1924563-1-1.html
+
 非常感谢
